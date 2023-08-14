@@ -53,9 +53,9 @@ else:
     exit()
 
 # List of email addresses.
-ACCOUNTS = ["email1.example.com",
-            "email2.exemple.com",
-            "email3.example.com"]
+ACCOUNTS = ["email1@example.com",
+            "email2@exemple.com",
+            "email3@example.com"]
 
 # Run the GAM command to delete emails older than 1 month
 output_list = []
